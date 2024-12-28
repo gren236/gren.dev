@@ -1,0 +1,51 @@
+baseURL = 'https://gren.dev/'
+title = 'Gren'
+copyright = 'Egor Rudkov 2024'
+
+theme = ["github.com/gren236/gren-theme"]
+
+pluralizeListTitles = false
+summaryLength = 48
+
+[menus]
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+[[menus.main]]
+name = 'Russian'
+pageRef = '/russian'
+weight = 20
+[[menus.main]]
+name = 'About'
+pageRef = '/about'
+weight = 30
+[[menus.main]]
+name = 'Contact'
+pageRef = '/contact'
+weight = 40
+
+[params]
+github_url = 'https://github.com/gren236'
+x_url = 'https://x.com/grenhere'
+linkedin_url = 'https://www.linkedin.com/in/gren236/'
+facebook_url = 'https://www.facebook.com/grenhere/'
+mastodon_url = 'https://mastodon.social/@gren236'
+telegram_url = 'https://t.me/gren236'
+
+email_icon = true
+rss_icon = true
+
+[params.author]
+email = 'gren236@gmail.com'
+name = 'Egor Rudkov'
+
+[pagination]
+disableAliases = false
+pagerSize = 7
+path = 'page'
+
+[module]
+[module.hugoVersion]
+extended = false
+min = "0.112.0"

@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <div class="container mx-auto pt-14 mt-16 md:max-w-5xl">
+    {{ with .Content }}
+      {{ partial "content.html" . }}
+    {{ end }}
+
+    {{ $pages := where .Site.RegularPages "Section" "" }}
+    {{ $paginator := .Paginate $pages.ByTitle }}
+
+    {{ partial "pages.html" $paginator.Pages }}
+
+
+    <div class="pb-2.5 pt-12">
+      {{ partial "pagination.html" . }}
+    </div>
+  </div>
+{{ end }}
