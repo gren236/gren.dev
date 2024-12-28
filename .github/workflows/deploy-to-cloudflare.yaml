@@ -2,7 +2,7 @@ name: Deploy Hugo blog to Cloudflare Pages
 
 on:
   push:
-    branches: [$default-branch]
+    branches: [main]
 
   workflow_dispatch:
 
