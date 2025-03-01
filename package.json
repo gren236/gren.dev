@@ -6,8 +6,6 @@
     "devDependencies": {
       "@tailwindcss/typography": "github.com/gren236/gren-theme",
       "autoprefixer": "github.com/gren236/gren-theme",
-      "postcss": "github.com/gren236/gren-theme",
-      "postcss-cli": "github.com/gren236/gren-theme",
       "prettier": "github.com/gren236/gren-theme",
       "prettier-plugin-go-template": "github.com/gren236/gren-theme",
       "tailwindcss": "github.com/gren236/gren-theme"
@@ -19,8 +17,6 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.15",
     "autoprefixer": "^10.4.20",
-    "postcss": "^8.4.49",
-    "postcss-cli": "^11.0.0",
     "prettier": "^3.4.2",
     "prettier-plugin-go-template": "^0.0.15",
     "tailwindcss": "^4.0.9"
