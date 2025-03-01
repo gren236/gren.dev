@@ -5,6 +5,8 @@ copyright = 'Egor Rudkov 2024'
 pluralizeListTitles = false
 summaryLength = 48
 
+_merge = "deep"
+
 [menus]
 [[menus.main]]
 name = 'Home'
@@ -49,6 +51,3 @@ extended = true
 min = "0.112.0"
 [[module.imports]]
 path = "github.com/gren236/gren-theme"
-
-[build]
-_merge = "deep"
