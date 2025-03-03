@@ -26,6 +26,7 @@ pageRef = '/contact'
 weight = 40
 
 [params]
+images = ['cover_image.jpg']
 github_url = 'https://github.com/gren236'
 x_url = 'https://x.com/grenhere'
 linkedin_url = 'https://www.linkedin.com/in/gren236/'

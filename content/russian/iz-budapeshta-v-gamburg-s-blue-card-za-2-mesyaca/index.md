@@ -2,6 +2,7 @@
 title = 'Из Будапешта в Гамбург с Blue Card за 2 месяца'
 slug = 'iz-budapeshta-v-gamburg-s-blue-card-za-2-mesyaca'
 date = '2025-03-02T17:11:13+01:00'
+images = ['hamburg.jpg']
 draft = false
 tags = ['Russian', 'Travel']
 +++
