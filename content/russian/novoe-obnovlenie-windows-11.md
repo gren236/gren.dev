@@ -3,6 +3,8 @@ title = 'Новое обновление Windows 11'
 slug = 'novoe-obnovlenie-windows-11'
 date = '2023-05-29T19:07:42.000Z'
 tags = ['Russian', 'News']
+[params]
+comments = true
 +++
 
 В грядущем [обновлении для Windows 11](https://blogs.windows.com/windowsdeveloper/2023/05/23/bringing-the-power-of-ai-to-windows-11-unlocking-a-new-era-of-productivity-for-customers-and-developers-with-windows-copilot-and-dev-home/), Microsoft наконец-то вспомнила, что люди на винде не только играют и смотрят ютуб, но и работают, а иногда и код пишут. И хоть побрякушки с ИИ выглядят просто как артефакт текущего хайпа, решение для разработчиков выглядит довольно интересно.

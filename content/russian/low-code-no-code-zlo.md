@@ -3,6 +3,8 @@ title = 'Low Code / No Code - Зло?'
 slug = 'low-code-no-code-zlo'
 date = '2023-04-15T13:59:45.000Z'
 tags = ['Russian', 'IT']
+[params]
+comments = true
 +++
 
 Недавно наткнулся на [любопытную заметку](https://habr.com/ru/companies/productivity_inside/articles/730662/) от разработчика о том, что [Low Code](https://ru.wikipedia.org/wiki/Low-code) решения являются большой ложью (наравне с AI инструментами) и на самом деле не добавляют ничего полезного в процесс решения проблем у бизнеса.

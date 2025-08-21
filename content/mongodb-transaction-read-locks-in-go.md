@@ -3,6 +3,8 @@ date = '2024-05-13T19:45:00+01:00'
 draft = false
 title = 'MongoDB Transaction Read Locks in Go'
 tags = ["Blog", "English", "IT", "Go", "Learn"]
+[params]
+comments = true
 +++
 
 Sometimes, things do not go well on the coding level. In that case, we know what to do - fix the issue, get to another task. Sometimes, things don't work out on the architectural level. For such stuff we have to apply additional resources to work around it. Fixing it won't make the tech debt disappear though.

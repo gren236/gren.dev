@@ -3,6 +3,8 @@ title = 'Google I/O 2023'
 slug = 'google-i-o-2023'
 date = '2023-05-11T10:35:15.000Z'
 tags = ['Russian', 'News']
+[params]
+comments = true
 +++
 
 После отсмотра [открывающей презентации](https://www.youtube.com/watch?v=cNfINi5CNbY) к Google I/O в этом году я поймал себя на мысли, что у Google есть очень большая проблема, о которой все говорят но никто ничего не делает, чтобы её решить.
