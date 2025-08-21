@@ -37,6 +37,10 @@ telegram_url = 'https://t.me/gren236'
 email_icon = true
 rss_icon = true
 
+[params.remark]
+host = 'https://comments.gren.dev'
+site_id = 'remark'
+
 [params.author]
 email = 'gren236@gmail.com'
 name = 'Egor Rudkov'
